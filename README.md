@@ -1,1 +1,3 @@
-# Spotify-Starter
+# Spotify-Clone
+
+by Vinamra Vashishth
